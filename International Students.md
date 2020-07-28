@@ -1,7 +1,7 @@
 # Gators Around the World 
 ## International Students at the University of Florida 
 
-```{r, echo = FALSE}
+```{r,  fig.width=8, fig.height=6}
 library(plotly)
 library(ggplot2)
 
